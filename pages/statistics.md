@@ -62,15 +62,14 @@ Interpret and infer new information from collected data.
 - #### Measures of center
   **Mean** is the average, calculated by adding all values and dividing by the number of values.
   **Median** is the middle value or average of the two middle values. Find middle value by dividing the number of values + 1 by 2.
+  **Range** - difference between max and min values in data set.
+  Range is not very useful as it only takes two data points into account and is impacted greatly by outliers.
   
   For skewed distributions, the mean will be closer to the tail than the median.
 - #### Measures of variability
   **Measure of spread** - how spread out is data?
   Small spread good when uniformity is desired.
   Large spread good when distinctions need to be made.
-  
-  **Range** - difference between max and min values in data set.
-  Range is not very useful as it only takes two data points into account and is impacted greatly by outliers.
   
   **Standard deviation** Average distance of data points from mean.
   Std dev = sqrt((Sum ( given value x * data point i - mean)^2) / sample size)
