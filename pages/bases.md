@@ -1,1 +1,17 @@
-- There are bases other than base 10/decimal
+## Basics
+	- For a given base, each place x^i with x being the base and i being the place - 1
+	- **Example**
+	- In binary 101 is 5, because the right place is 2^0, which is 1, the next is 2^1, which would be 2 but it's empty, and the third place is 2^2, which gives us 4. 4 + 1 is 5.
+	- Common bases in computing are **binary** - base 2, **octal** - base 8, and **hexadecimal** - base 16
+- ## Non-Integer Numbers
+	- Decimal point called **radix point** when working with other bases
+	- Non integer numbers follow the same trend as whole numbers with the places right of the radix point being the base to a negative power
+	- **Example**
+	- 4.6 in octal is 4.75 in decimal, because 4 * 8^0 is 4 and 6 * 8^-1 is 0.75.
+- ## Converting from Decimal
+	- For **integer** values, divide by the base repeatedly. Calculate the remainder of each step by multiplying the fractional values after the radix by the base. The remainders in reverse order are the number in the new base.
+	- For **non-integer** values, repeat the same process for any whole numbers left of the radix. For the fractional values, multiply by the base and split the integer part of the result from the non-integer. Repeat this process on the non-integer part of results until it reaches 0. The integer parts of the result in the order calculated are the numbers right of the radix for your new value in your new base.
+- ## Conversions between Binary, Octal, and Hex
+	- To convert either **to binary**, simply convert each individual digit to its binary form
+	- **Hexadecimal** digits will convert to groupings of **4 digits** in binary. **Octal** digits convert to groupings of **3 binary digits.**
+	- To convert between **octal** and **hexadecimal,**  first convert to binary, then regroup the digits for the other base as defined above.
