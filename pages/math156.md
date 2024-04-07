@@ -1,2 +1,3 @@
 ## [[statistics]]
 - ## [[bases]]
+- ## [[logic]]
