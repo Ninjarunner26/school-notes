@@ -24,3 +24,26 @@
 	  P^P <=> P
 	  PVP <=> P
 	- **Complement law**:
+	  ~(~P) <=> P
+	  P^~P <=> 0
+	- **De Morgan's**
+	  ~(AB) =  ~A + ~B
+	  ~(A + B) = ~A * ~B
+	- **Distributive**
+	  A(B+C) = AB + AC
+	  A + BC = (A+B)(A+C)
+	- **Absorption**
+	  A(A+B) = A
+	  A(~A+B) = AB
+	  A + AB = A
+	  A + ~AB = A+B
+- ## Conditionals
+	- P -> Q
+	  If P, Then Q
+	- **Example**
+	  If I live in Victoria, then I live in BC
+	- P -> Q <=> ~Q -> ~P
+	- P <-> Q
+	  If and only if P, Then Q
+	- **Example**
+	  If and only if it is Sunday, then tomorrow is Monday
