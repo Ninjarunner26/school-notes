@@ -1614,7 +1614,16 @@
 :parentId "66196195-2c7a-45ca-9b35-ff05644b2114"
 :nonce 1712939750481
 :isComplete true}}
-:block/updated-at 1712939751262})
+:block/updated-at 1712939751262} 
+{:block/content ""
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66196195-2c7a-45ca-9b35-ff05644b2114"}
+:block/parent 
+{:block/uuid #uuid "66196195-2c7a-45ca-9b35-ff05644b2114"}
+:block/properties 
+{}
+:block/uuid #uuid "661c49b6-6cf3-48aa-9946-6c045dfaca2e"})
 :pages (
 {:block/uuid #uuid "66196195-2c7a-45ca-9b35-ff05644b2114"
 :block/properties 
@@ -1627,8 +1636,10 @@
 :nonce 1
 :assets []
 :shapes-index ("08588a00-f8ea-11ee-9917-0bc3f5ccbdb6" "11534690-f8ea-11ee-9917-0bc3f5ccbdb6" "12abaaa0-f8ea-11ee-9917-0bc3f5ccbdb6" "15ffdeb0-f8ea-11ee-9917-0bc3f5ccbdb6" "17a09660-f8ea-11ee-9917-0bc3f5ccbdb6" "18b3b410-f8ea-11ee-9917-0bc3f5ccbdb6" "1a36d1a0-f8ea-11ee-9917-0bc3f5ccbdb6" "1be03be0-f8ea-11ee-9917-0bc3f5ccbdb6" "1e70f8e0-f8ea-11ee-9917-0bc3f5ccbdb6" "205214f0-f8ea-11ee-9917-0bc3f5ccbdb6" "21831ae0-f8ea-11ee-9917-0bc3f5ccbdb6" "23598890-f8ea-11ee-9917-0bc3f5ccbdb6" "24744760-f8ea-11ee-9917-0bc3f5ccbdb6" "25a30360-f8ea-11ee-9917-0bc3f5ccbdb6" "26b0f0f0-f8ea-11ee-9917-0bc3f5ccbdb6" "2820ad90-f8ea-11ee-9917-0bc3f5ccbdb6" "2a6bfd20-f8ea-11ee-9917-0bc3f5ccbdb6" "2bc21740-f8ea-11ee-9917-0bc3f5ccbdb6" "2c7dc620-f8ea-11ee-9917-0bc3f5ccbdb6" "2d8fab50-f8ea-11ee-9917-0bc3f5ccbdb6" "2f9b32c0-f8ea-11ee-9917-0bc3f5ccbdb6" "31a9c770-f8ea-11ee-9917-0bc3f5ccbdb6" "333ff7d0-f8ea-11ee-9917-0bc3f5ccbdb6" "34fc9bf0-f8ea-11ee-9917-0bc3f5ccbdb6" "42b6dc60-f8ea-11ee-9917-0bc3f5ccbdb6" "48323630-f8ea-11ee-9917-0bc3f5ccbdb6" "495113b0-f8ea-11ee-9917-0bc3f5ccbdb6" "4a4a67d0-f8ea-11ee-9917-0bc3f5ccbdb6" "56ce9940-f8ea-11ee-9917-0bc3f5ccbdb6" "583fdc80-f8ea-11ee-9917-0bc3f5ccbdb6" "59498450-f8ea-11ee-9917-0bc3f5ccbdb6" "6ea18960-f8ea-11ee-9917-0bc3f5ccbdb6" "73a912c0-f8ea-11ee-9917-0bc3f5ccbdb6" "74e16bb0-f8ea-11ee-9917-0bc3f5ccbdb6" "7cf794a0-f8ea-11ee-9917-0bc3f5ccbdb6" "7ed0e880-f8ea-11ee-9917-0bc3f5ccbdb6" "7ff67cc0-f8ea-11ee-9917-0bc3f5ccbdb6" "81c54950-f8ea-11ee-9917-0bc3f5ccbdb6" "82dcd3d0-f8ea-11ee-9917-0bc3f5ccbdb6" "83f521a0-f8ea-11ee-9917-0bc3f5ccbdb6" "849ecf20-f8ea-11ee-9917-0bc3f5ccbdb6" "855722a0-f8ea-11ee-9917-0bc3f5ccbdb6" "86b727d0-f8ea-11ee-9917-0bc3f5ccbdb6" "8822ecd0-f8ea-11ee-9917-0bc3f5ccbdb6" "892800c0-f8ea-11ee-9917-0bc3f5ccbdb6" "899b5c00-f8ea-11ee-9917-0bc3f5ccbdb6" "8ae911b0-f8ea-11ee-9917-0bc3f5ccbdb6" "8c4d83b0-f8ea-11ee-9917-0bc3f5ccbdb6" "8d518630-f8ea-11ee-9917-0bc3f5ccbdb6" "9099d360-f8ea-11ee-9917-0bc3f5ccbdb6" "91c88f60-f8ea-11ee-9917-0bc3f5ccbdb6" "9460c670-f8ea-11ee-9917-0bc3f5ccbdb6" "95a8fde0-f8ea-11ee-9917-0bc3f5ccbdb6" "974dfb50-f8ea-11ee-9917-0bc3f5ccbdb6" "981bab90-f8ea-11ee-9917-0bc3f5ccbdb6" "98d73360-f8ea-11ee-9917-0bc3f5ccbdb6" "9abb0e90-f8ea-11ee-9917-0bc3f5ccbdb6" "9c212e40-f8ea-11ee-9917-0bc3f5ccbdb6" "9d7832c0-f8ea-11ee-9917-0bc3f5ccbdb6" "9ea19790-f8ea-11ee-9917-0bc3f5ccbdb6" "a2287460-f8ea-11ee-9917-0bc3f5ccbdb6" "a321c880-f8ea-11ee-9917-0bc3f5ccbdb6" "a486d6c0-f8ea-11ee-9917-0bc3f5ccbdb6" "a5e24810-f8ea-11ee-9917-0bc3f5ccbdb6" "a71019b0-f8ea-11ee-9917-0bc3f5ccbdb6" "a7e56b10-f8ea-11ee-9917-0bc3f5ccbdb6" "aa996780-f8ea-11ee-9917-0bc3f5ccbdb6" "ad247f30-f8ea-11ee-9917-0bc3f5ccbdb6" "ae64ee70-f8ea-11ee-9917-0bc3f5ccbdb6" "af75e940-f8ea-11ee-9917-0bc3f5ccbdb6" "b0792870-f8ea-11ee-9917-0bc3f5ccbdb6" "b1a4b020-f8ea-11ee-9917-0bc3f5ccbdb6" "b299e590-f8ea-11ee-9917-0bc3f5ccbdb6" "b563b3f0-f8ea-11ee-9917-0bc3f5ccbdb6" "b6880fb0-f8ea-11ee-9917-0bc3f5ccbdb6" "b783d4d0-f8ea-11ee-9917-0bc3f5ccbdb6" "b8fb59a0-f8ea-11ee-9917-0bc3f5ccbdb6")}}
+:block/journal? false
 :block/updated-at 1712939751262
 :block/created-at 1712939413656
+:block/format :markdown
 :block/type "whiteboard"
 :block/name "series-sigma notation"
 :block/original-name "series-sigma notation"})}
