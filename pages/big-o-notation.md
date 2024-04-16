@@ -1,0 +1,2 @@
+- Measure of algorithmic complexity
+- n! > 2^n > n^2 > n log n > n > log n
