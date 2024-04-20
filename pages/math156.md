@@ -3,3 +3,4 @@
 - ## [[logic]]
 - ## [[sequences]]
 - ## [[big-o-notation]]
+- ## [[probability]]
