@@ -9,7 +9,7 @@
 	- **Example**
 	- 4.6 in octal is 4.75 in decimal, because 4 * 8^0 is 4 and 6 * 8^-1 is 0.75.
 - ## Converting from Decimal
-	- For **integer** values, divide by the base repeatedly. Calculate the remainder of each step by multiplying the fractional values after the radix by the base. The remainders in reverse order are the number in the new base.
+	- For **integer** values, divide the integer part by the base repeatedly. Calculate the remainder of each step by multiplying the fractional values after the radix by the base. The remainders in reverse order are the number in the new base.
 	- For **non-integer** values, repeat the same process for any whole numbers left of the radix. For the fractional values, multiply by the base and split the integer part of the result from the non-integer. Repeat this process on the non-integer part of results until it reaches 0. The integer parts of the result in the order calculated are the numbers right of the radix for your new value in your new base.
 - ## Conversions between Binary, Octal, and Hex
 	- To convert either **to binary**, simply convert each individual digit to its binary form
