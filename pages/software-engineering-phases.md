@@ -1,0 +1,21 @@
+## Planning
+	- Discover and document what is wanted by the customers
+	- Do the requirements seem feasible?
+	- Are they verifiable / testable?
+- ## Design
+	- ### High Level (Architecture)
+		- Intended platform, broader view of different components, what external APIS / libraries may be used.
+	- ### Low Level
+		- Planning of specific components such as classes, interfaces, and database entries, and the ways in which they'll interact.
+- ## Development
+	- Begin programming according to design specifications.
+	- Developers create unit tests for their classes and libraries.
+- ## Testing
+	- **Function** testing verifies that the program behaves in the expected manor.
+	- **Regression** testing is done after bug fixes to ensure they didn't cause issues elsewhere in the program.
+	- **Performance** testing is done to make sure that the program works within acceptable time and resource constraints.
+	- **Security** testing verifies the software meets security standards.
+- ## Deployment
+	- The process of setting the program up in production, such as setting up databases on production servers, delivering software packages to users, etc.
+- ## Maintenance
+	- Patching bugs and performing updates.

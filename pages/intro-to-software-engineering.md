@@ -1,0 +1,15 @@
+## What is Software Engineering?
+	- **Software engineering** is an engineering discipline focused on the design, development, maintenance, and improvement of software products.
+- ## Qualities of Good Software
+	- **Maintainability** - Good software is made in a way that makes it easy to fix and update in the future.
+	- **Dependability** - Good software needs to be trustworthy, and perform its function well and reliably.
+	- **Efficiency** - Good software should not use unnecessary resources.
+	- **Usability** - Good software must be usable by those who it is made for.
+- ## Scope / Scale
+	- **Small scale** operations are typically small teams working on simple projects in a short time-frame.
+	- **Large scale** operations will have larger teams working on complex software with many requirements over a long time.
+	- **5 C's  of Large Scale**
+		- Complexity
+		- Change
+		- Collaboration
+		- Communication
